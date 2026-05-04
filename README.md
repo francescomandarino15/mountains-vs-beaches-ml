@@ -2,11 +2,12 @@
 
 This project implements a Machine Learning pipeline for predicting user preferences between mountains and beaches.
 
-The project covers the full workflow:
-- data preprocessing
-- exploratory data analysis
-- model training
-- model evaluation and comparison
+---
+
+## Dataset
+
+The dataset is publicly available on Kaggle:  
+https://www.kaggle.com/datasets/jahnavipaliwal/mountains-vs-beaches-preference
 
 ---
 
