@@ -45,6 +45,14 @@ https://www.kaggle.com/datasets/jahnavipaliwal/mountains-vs-beaches-preference
 
 ---
 
+## 📊 Results
+
+Random Forest achieved the best performance among the tested models, demonstrating strong generalization capability.
+
+The comparison was based on F1-score, which balances precision and recall.
+
+---
+
 ## 🤖 Models Used
 
 - Decision Tree  
