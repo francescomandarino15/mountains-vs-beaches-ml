@@ -6,6 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue)](https://www.kaggle.com/datasets/jahnavipaliwal/mountains-vs-beaches-preference)
 
+💡 This project demonstrates a complete end-to-end Machine Learning workflow.
 
 This project implements a complete Machine Learning pipeline for predicting user preferences between mountains and beaches using classification algorithms.
 
@@ -17,7 +18,7 @@ The workflow includes data loading, exploratory data analysis, preprocessing, mo
 
 The full implementation is available here:
 
-👉 [Open Notebook](notebook/mountains_vs_beaches_ml.ipynb)
+👉 [Open Notebook](./notebook/mountains_vs_beaches_ml.ipynb)
 
 ---
 
