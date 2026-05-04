@@ -1,4 +1,4 @@
-# ML-mountains-vs-beaches
+# mountains-vs-beaches-ml
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
@@ -7,7 +7,7 @@
 [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue)](https://www.kaggle.com/datasets/jahnavipaliwal/mountains-vs-beaches-preference)
 
 
-This project implements a Machine Learning pipeline for predicting user preferences between mountains and beaches.
+This project implements a complete Machine Learning pipeline for predicting user preferences between mountains and beaches using classification algorithms.
 
 The workflow includes data loading, exploratory data analysis, preprocessing, model training, and evaluation.
 
