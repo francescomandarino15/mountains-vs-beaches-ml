@@ -46,9 +46,13 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
+---
+
 ## 📈 Goal
 
 The goal of this project is to demonstrate a complete Machine Learning workflow, from raw data to model evaluation.
+
+---
 
 ## 👨‍💻 Author
 
